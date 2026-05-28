@@ -1,0 +1,7 @@
+Package: randcout
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Maintainer: proximacentav pcentav@mail.ru
+Description: random symbol generator.
